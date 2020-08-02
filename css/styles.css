@@ -45,6 +45,83 @@ body {
   min-height: 100vh;
 }
 
+.floatingIcon {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  background: #353535;
+  color: #ececec;
+  font-weight: 600;
+  pointer-events: none;
+  opacity: 0;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+}
+
+.floatingIcon.show {
+  opacity: 1;
+  pointer-events: initial;
+}
+
+.overlay {
+  position: fixed;
+  top: 0em;
+  left: 0em;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+  opacity: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+  z-index: 100;
+}
+
+.overlay.show {
+  opacity: 1;
+  pointer-events: initial;
+}
+
+.overlay .modal {
+  margin: auto;
+  width: 80%;
+  background: #ececec;
+  border-radius: .5rem;
+}
+
+.overlay .modal .modal-body {
+  color: #353535;
+  font-size: 2rem;
+  padding: 2rem;
+}
+
+.overlay .modal .modal-footer {
+  padding: 2rem;
+  text-align: right;
+}
+
+.overlay .modal .modal-footer button {
+  padding: 0.7rem 1.4rem;
+  border: none;
+  border-radius: .3rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-right: 1rem;
+}
+
+.overlay .modal .modal-footer button.primary {
+  background: #2b76ff;
+  color: #ffffff;
+}
+
+.overlay .modal .modal-footer button.secondary {
+  background: #b8b8b8;
+}
+
 nav {
   display: -webkit-box;
   display: -ms-flexbox;

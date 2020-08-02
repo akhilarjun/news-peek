@@ -49,6 +49,20 @@
     </section>
     <section class="news" id="news">
     </section>
+    <div class="overlay" id="installModal">
+        <div class="modal">
+            <div class="modal-body">
+                Would you like to install this as a native application?
+            </div>
+            <div class="modal-footer">
+                <button class="secondary" onclick="hideModal()">Cancel</button>
+                <button class="primary" onclick="installNewsPeek()">Install</button>
+            </div>
+        </div>
+    </div>
+    <div id="floatingIcon" class="floatingIcon" onclick="showInstallPromotion()">
+        + Install
+    </div>
     <script src="js/neewspeek.js"></script>
 </body>
 </html>

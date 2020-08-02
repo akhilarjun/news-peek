@@ -5,6 +5,52 @@ const categories = ['business', 'entertainment', 'general', 'health', 'science',
 const API_KEY = 'bec0ddf103244fa096a72ce2b2f93945';
 const topHeadlinesURL = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${API_KEY}`;
 const searchURL = `https://newsapi.org/v2/everything?apiKey=${API_KEY}`;
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+    if(!localStorage.getItem('installRejected') && !localStorage.getItem('installCompleted')) {
+        showInstallPromotion();
+    } else {
+        showFloatingIcon();
+    }
+});
+
+function showFloatingIcon() {
+    if (!localStorage.getItem('installCompleted')) {
+        const floatingIcon = document.getElementById('floatingIcon');
+        floatingIcon.classList.add('show');
+    }
+}
+
+function showInstallPromotion() {
+    const installModal = document.getElementById('installModal');
+    installModal.classList.add('show');
+}
+
+function hideModal() {
+    localStorage.setItem('installRejected', true);
+    showFloatingIcon();
+    const installModal = document.getElementById('installModal');
+    installModal.classList.remove('show');
+}
+
+function installNewsPeek() {
+    hideModal();
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then(choiceResult => {
+        if (choiceResult.outcome === 'accepted') {
+            localStorage.setItem('installRejected', false);
+        } else {
+            localStorage.setItem('installRejected', true);
+        }
+    })
+}
+
+window.addEventListener('appinstalled', (evt) => {
+    localStorage.setItem('installCompleted', true);
+});
 
 /**
  * Utility to format date as
