@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Easy to read news snippets from all over the world right at your fingertips">
+    <link rel="manifest" href="manifest.json" />
+    <!-- ios support -->
+    <link rel="apple-touch-icon" href="/icons/newspeek-72x72.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-96x96.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-128x128.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-144x144.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-152x152.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-192x192.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-384x384.png" />
+    <link rel="apple-touch-icon" href="/icons/newspeek-512x512.png" />
+    <meta name="apple-mobile-web-app-status-bar" content="#353535" />
+    <meta name="theme-color" content="#353535" />
+    <title>News Peek</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script>
+        if (window.location.protocol === 'http:') {
+            // window.location.protocol = 'https:';
+        }
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('serviceworker.js');
+        }
+    </script>
+    <script src="js/theme.js"></script>
+</head>
+<body>
+    <nav>
+        <img src="./img/logo.png" alt="news peek logo">
+        <input type="text" placeholder="Search">
+        <img src="./icons/sun.svg" 
+             data-light-src="./icons/sun.svg" 
+             data-dark-src="./icons/moon.svg" 
+             data-activate-theme="light" 
+             alt="light theme" 
+             id="theme-selector"
+             class="icon"
+             onclick="switchTheme(this)">
+    </nav>
+    <section>
+        <h1>Hi There</h1>
+        <div class="sub-text" id="date"></div>
+    </section>
+    <section class="categories" id="topcategories">
+    </section>
+    <section class="news" id="news">
+    </section>
+    <script src="js/neewspeek.js"></script>
+</body>
+</html>

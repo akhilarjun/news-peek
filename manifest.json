@@ -1,0 +1,48 @@
+{
+    "name": "NewsPeek",
+    "short_name": "NeewsPeek",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ececec",
+    "theme_color": "#353535",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/icons/newspeek-72x72.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/icons/newspeek-96x96.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/icons/newspeek-128x128.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/icons/newspeek-144x144.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "/icons/newspeek-152x152.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "/icons/newspeek-192x192.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "/icons/newspeek-384x384.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "/icons/newspeek-512x512.png",
+        "type": "image/png", "sizes": "512x512"
+      },
+      {
+        "src": "/img/logo.png",
+        "type": "image/png", "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ]
+  }

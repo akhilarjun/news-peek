@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Two US astronauts aboard Earth-bound SpaceX craft depart International Space Station - FRANCE 24 English",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cXZVZHM0RzQ1UXfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-08-02T08:08:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The News Minute"
+            },
+            "author": null,
+            "title": "Chandrayaan-2 rover may still be intact on moon’s surface, Chennai techie finds - The News Minute",
+            "description": "Months after India’s collective heartbreak over the crash landing of the Chandrayaan-2’s Vikram lander, a techie in Chennai has found that the rover on the lander may still be intact on the moon’s surface. This is the ‘Pragyaan’ rover that was attached to Vik…",
+            "url": "https://www.thenewsminute.com/article/chandrayaan-2-rover-may-still-be-intact-moon-s-surface-chennai-techie-finds-129890",
+            "urlToImage": "https://www.thenewsminute.com/sites/default/files/Pragyan_rover-shanmuga1200.jpg",
+            "publishedAt": "2020-08-02T07:21:20Z",
+            "content": "Shanmuga Subramanian had also earlier helped NASA find the debris of the Vikram lander on the moons surface months after its hard landing on the moons south side.Months after Indias collective heartb… [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Asian News International | Posted by Kanishka Sarkar",
+            "title": "Telangana BJP leader invites Asaduddin Owaisi to mega Ram temple event - Hindustan Times",
+            "description": "Prime Minister Narendra Modi is scheduled to lay the foundation stone of the Ram temple in Ayodhya on August 5.",
+            "url": "https://www.hindustantimes.com/india-news/telangana-bjp-leader-invites-asaduddin-owaisi-to-attend-ram-temple-event/story-eUolDkHi7SuAs226WU1UFP.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/03/13/Pictures/parliament-session_f556636c-6533-11ea-9f9f-cfbcf00f9318.JPG",
+            "publishedAt": "2020-08-02T07:09:00Z",
+            "content": "Telangana BJP Leader and Chief Spokesperson Krishna Sagar Rao has invited AIMIM chief Asaduddin Owaisi to participate in the ‘bhoomi poojan’ of the Ram temple in Ayodhya.\r\n“The Ayodhya Ram Mandir bho… [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AP",
+            "title": "What would a US ban on Chinese-owned app TikTok mean? - Times of India",
+            "description": "US News: NEW YORK: President Donald Trump says he wants to take action to ban TikTok, a popular Chinese-owned video app that has been a source of national secu.",
+            "url": "https://timesofindia.indiatimes.com/world/us/what-would-a-us-ban-on-chinese-owned-app-tiktok-mean/articleshow/77312710.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77312709,width-1070,height-580,imgsize-19980,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2020-08-02T07:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "PTI",
+            "title": "Sourav Ganguly: Women's T20 Challenge during IPL 'very much on' | ESPNcricinfo.com - ESPNcricinfo.com",
+            "description": "BCCI president says there's a \"plan in place\" to conduct a camp for the India women's team | ESPNcricinfo.com",
+            "url": "https://www.espncricinfo.com/story/_/id/29581951/sourav-ganguly-women-t20-challenge-ipl-very-much-on",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/esci/i/cricket/cricinfo/1228252_1296x729.jpg",
+            "publishedAt": "2020-08-02T07:00:39Z",
+            "content": "BCCI president Sourav Ganguly on Sunday said the women's IPL or the Women's T20 Challenge, as it is better known, is \"very much on\".\r\nThe men's IPL will be held between September 19 and November 8 or… [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Shishir Gupta",
+            "title": "With CPEC in mind, China wants iron brother Pakistan to pitch BLA as terror group in UN - Hindustan Times",
+            "description": "Islamabad does not want to move UNSC 1267 committee on getting BLA declared as global terrorist organisation as it feels that this will internationalise Balochistan’s separatist movement.",
+            "url": "https://www.hindustantimes.com/world-news/with-cpec-in-mind-china-wants-iron-brother-pakistan-to-pitch-bla-as-terror-group-in-un/story-GcOrzYG3gwqqAutSTlPqHL.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/02/Pictures/_14aab45c-d488-11ea-bae0-701c4bed6ede.png",
+            "publishedAt": "2020-08-02T06:38:00Z",
+            "content": "With China-Pakistan Economic Corridor at the heart of President Xi Jinping’s plan to consolidate economic relations with Africa and Middle-East via Gwadar, Beijing wants Islamabad to move the UN Secu… [+3216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Over 54,000 Covid Cases In India In 24 Hours, Total Cases Cross 17 Lakh - NDTV",
+            "description": "India's COVID-19 tally crossed the 17-lakh mark on Sunday, just two days after it went past 16 lakh, with 54,735 cases being reported in a day, while the recoveries crossed the 11-lakh mark, according to the Union Health Ministry data. The country now has 17,…",
+            "url": "https://www.ndtv.com/india-news/over-54-000-coronavirus-cases-in-india-in-24-hours-17-5-lakh-total-cases-so-far-2272795",
+            "urlToImage": "https://c.ndtvimg.com/2020-07/17c5ka9g_coronavirus-india-generic-650_625x300_31_July_20.jpg",
+            "publishedAt": "2020-08-02T06:18:00Z",
+            "content": "<li>It took just 185 days for India to cross the 17-lakh mark after the first case was reported in Kerala in January this year. The country had crossed the one lakh-mark in 110 days. More than 60 per… [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Correspondent | Edited by Meenakshi Ray",
+            "title": "Yogi Adityanath’s Ayodhya visit cancelled after minister Kamal Rani Varun’s death - Hindustan Times",
+            "description": "Kamal Rani Varun, 62, had tested positive for Covid-19 on July 18 and she died at a hospital in Lucknow on Sunday due to the viral infection.",
+            "url": "https://www.hindustantimes.com/india-news/yogi-adityanath-s-ayodhya-visit-cancelled-after-minister-kamal-rani-varun-s-death/story-cpPZ64RRfVfworOYi2PAhL.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/02/Pictures/_a09e4c64-d486-11ea-bae0-701c4bed6ede.jpg",
+            "publishedAt": "2020-08-02T06:11:56Z",
+            "content": "Uttar Pradesh chief minister Yogi Adityanath’s visit to Ayodhya to review preparations for the bhumi pujan ceremony for the construction of the Ram Mandir on Sunday was cancelled after Kamal Rani Var… [+1318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "Sushant Singh Rajput’s brother-in-law reacts to therapist’s interview, suggests Rhea Chakraborty may... - Hindustan Times",
+            "description": "Vishal Kirti, the husband of late actor Sushant Singh Rajput’s sister Shweta Singh Kirti, has given a rebuttal to therapist Susan Walker.",
+            "url": "https://www.hindustantimes.com/bollywood/sushant-singh-rajput-s-brother-in-law-reacts-to-therapist-s-interview-suggests-rhea-chakraborty-may-have-sociopathy-psychopathy/story-Hc7awVgH3SmJuJfL2VBmRI.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/02/Pictures/_e04c1720-d480-11ea-8924-6a92a23725cb.PNG",
+            "publishedAt": "2020-08-02T05:56:19Z",
+            "content": "Sushant Singh Rajput’s brother-in-law Vishal Kirti has written a lengthy blog post after the late actor’s therapist claimed in an interview that he had bipolar disorder and Rhea Chakraborty was his ‘… [+8165 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Sandeep Phukan",
+            "title": "Jyotiraditya Scindia and Sachin Pilot were the “princelings” of Congress, says Manish Tewari - The Hindu",
+            "description": "‘We must craft our unique definition of nationalism drawing on our leadership of the liberation struggle and not just as an antithesis of the BJP. We must effectively fight against NDA/BJP State by State and win’, says the Lok Sabha member.",
+            "url": "https://www.thehindu.com/news/national/jyotiraditya-scindia-and-sachin-pilot-were-the-princelings-of-congress-says-manish-tewari/article32252056.ece",
+            "urlToImage": "https://www.thehindu.com/news/national/os8z8i/article31218144.ece/ALTERNATES/LANDSCAPE_615/VBK-MANISHTEWARI-PTI",
+            "publishedAt": "2020-08-02T05:34:39Z",
+            "content": "At a time when Congress seems to be going through a churn, Lok Sabha member and former Union Minister Manish Tewari, in an exclusive interview with The Hindu, talks about internal rift in the Congres… [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "The reason why fruits should be eaten alone, according to Ayurveda - Times of India",
+            "description": "But to gain maximum health benefits from these natural products, it is important to have them correctly and at the",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/the-reason-why-fruits-should-be-eaten-alone-according-to-ayurveda/articleshow/77305243.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77305230,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-966453/77305230.jpg",
+            "publishedAt": "2020-08-02T05:30:00Z",
+            "content": "Fruits and vegetables are important elements of our diet. They are nutrient-dense and can help to prevent several kinds of health issues. But to gain maximum health benefits from these natural produc… [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Asian News International | Posted by Kanishka Sarkar",
+            "title": "Nepal to send updated map to India, international community, says minister - Hindustan Times",
+            "description": "The ministry has asked the department of measurement to print 4,000 copies of the updated version of Nepal’s map in English language and send it to the international community.",
+            "url": "https://www.hindustantimes.com/india-news/nepal-to-send-updated-map-to-india-international-community-says-minister/story-qOk4o8O4ofXCK7nBTfKxcL.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/02/Pictures/resignation-parliament-announced-minister-kathmandu-prasad-sharma_746a0e72-d480-11ea-bae0-701c4bed6ede.jpg",
+            "publishedAt": "2020-08-02T05:26:51Z",
+            "content": "Nepal government intends to send its recently revised map to India, Google and international community by the middle of August, a minister has said. The revised map includes Indian territories of Lim… [+1274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sporting News"
+            },
+            "author": "Sporting News",
+            "title": "Injured Chelsea trio set to miss Champions League clash against Bayern Munich - Goal India",
+            "description": "Champions League: Chelsea lost Christian Pulisic and Cesar Azpilicueta to injury against Arsenal and neither player will be fit to face Bayern Munich.",
+            "url": "https://www.sportingnews.com/ca/soccer",
+            "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+            "publishedAt": "2020-08-02T04:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "How Rahul Dravid's advice to play spin changed the world for Kevin Pietersen - Times of India",
+            "description": "Cricket News: During his 10 years as an England player, from 2004 to 2014, Kevin Pietersen was one of the world's most explosive batsmen -- particularly in limited-",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-rahul-dravids-advice-to-play-spin-changed-the-world-for-kevin-pietersen/articleshow/77311486.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77311484,width-1070,height-580,imgsize-146778,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2020-08-02T04:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PINKVILLA"
+            },
+            "author": "Megha Thadani",
+            "title": "Shehnaaz Gill 'slaps' Sidharth Shukla as they discuss about fights among their fans but there's a catch; WATCH - PINKVILLA",
+            "description": "Bigg Boss 13's most-loved jodi Sidharth Shukla and Shehnaaz Gill interacted with fans through a live session recently, and SidNaaz fans couldn't control their excitement. Take a look.",
+            "url": "https://www.pinkvilla.com/tv/news-gossip/shehnaaz-gill-slaps-sidharth-shukla-they-discuss-about-fights-among-their-fans-theres-catch-watch-553940",
+            "urlToImage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/shehnaaz_gill_slaps_sidharth_shukla_as_they_discuss_about_fights_among_their_fans_but_theres_a_catch_watch_social.jpg?itok=4FCJI8Xu",
+            "publishedAt": "2020-08-02T04:39:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "With pullback in Depsang & Pangong stalled, military talks with China to be held today - Times of India",
+            "description": "India News: Amidst Chinese troops showing no signs of pulling back from Pangong Tso and Depsang Plains in eastern Ladakh, while also continuing to increase deploy",
+            "url": "https://timesofindia.indiatimes.com/india/with-pullback-in-depsang-pangong-stalled-military-talks-with-china-to-be-held-today/articleshow/77309854.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77311286,width-1070,height-580,imgsize-423622,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2020-08-02T04:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Friendship day 2020: Alia Bhatt-Akansha Ranjan Kapoor to Kareena Kapoor Khan-Amrita Arora, Then and now photos of B-town BFFs you shouldn't miss - Times of India",
+            "description": "Friendship day is usually celebrated on the first Sunday of August. As we all know, friendship has always been a popular emotion in Bollywood movies. Be it '3 Idiots', 'Dil Chahta Hai', 'Kai Po Che' or 'Rang De Basanti', there are so many films that are being…",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/friendship-day-2020-alia-bhatt-akansha-ranjan-kapoor-to-kareena-kapoor-khan-amrita-arora-then-and-now-photos-of-b-town-bffs-you-shouldnt-miss/photostory/77300027.cms",
+            "urlToImage": "https://static.toiimg.com/photo/77312501.cms",
+            "publishedAt": "2020-08-02T04:30:00Z",
+            "content": "Friendship day is usually celebrated on the first Sunday of August. As we all know, friendship has always been a popular emotion in Bollywood movies. Be it '3 Idiots', 'Dil Chahta Hai', 'Kai Po Che' … [+357 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Sarthak Dogra",
+            "title": "Off To Mars, NASA Perseverance Rover Has A Long, Scary Journey Ahead - India Times",
+            "description": "US space agency NASA has taken off for Mars in a historic launch that aims to explore the red planet further. The $2.4 billion program started its journey from Florida's Cape Canaveral at 5:20 pm IST, as part of NASA's Mars Exploration Program.               …",
+            "url": "https://www.indiatimes.com/technology/news/nasa-mission-mars-perseverance-rover-seven-minutes-of-horror-519217.html",
+            "urlToImage": "https://im.indiatimes.in/content/2020/Jul/NASA-Perseverance-Mars-Landing_5f22c944a5d65.jpg",
+            "publishedAt": "2020-08-02T03:54:49Z",
+            "content": "US space agency NASA has taken off for Mars in a historic launch that aims to explore the red planet further. \r\nThe $2.4 billion program started its journey from Florida's Cape Canaveral at 5:20 pm I… [+6168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News18",
+            "title": "The Kapil Sharma Show Returns, Fans Pour In Love For Sonu Sood - News18",
+            "description": "After the first episode of The Kapil Sharma Show aired post the covid-19 lockdown, fans poured in love for Sonu Sood, who was the first guest on the show.",
+            "url": "https://www.news18.com/news/movies/the-kapil-sharma-show-returns-fans-pour-in-love-for-sonu-sood-2750709.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/08/1596334762_eexxfcou8ae2wqe_copy_1200x800.jpeg",
+            "publishedAt": "2020-08-02T02:27:10Z",
+            "content": "The popular comedy talk show The Kapil Sharma show returned with its first episode since the Coronavirus lockdown was announced. The special guest was actor Sonu Sood, who has been tirelessly working… [+799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News18",
+            "title": "Coronavirus LIVE Updates: Expect 'Lengthy' Pandemic, Says WHO, Warns of 'Response Fatigue'; US Records Ov... - News18",
+            "description": "Coronavirus LIVE Updates: Assam today allowed hotels and restaurants to open in the state but with strict adherence to Covid-19 norms.",
+            "url": "https://www.news18.com/news/india/coronavirus-live-updates-maharashtra-mumbai-covid19-vaccine-india-cases-karnataka-delhi-symptoms-prevention-2750707.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/08/1596347820_assam.jpg",
+            "publishedAt": "2020-08-02T02:25:35Z",
+            "content": "Coronavirus LIVE Updates: Assam today allowed hotels and restaurants to open in the state but with strict adherence to Covid-19 norms. Three more COVID-19 patients died in Assam on Saturday, taking t… [+5096 chars]"
+        }
+    ]
+}
