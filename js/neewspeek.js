@@ -17,6 +17,40 @@ window.addEventListener('beforeinstallprompt', (e) => {
     }
 });
 
+addEventListener('load',async () => {
+    const permision = await Notification.requestPermission();
+    if (permision === 'granted') {
+        subscribe();
+    }
+});
+
+async function subscribe() {
+    const rawResp = await fetch('https://cya5q481yc.execute-api.us-east-1.amazonaws.com/pushNotificationEngine');
+    rawResp.json().then(async serverKey => {
+        let sw = await navigator.serviceWorker.ready;
+        let subscription = await sw.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: serverKey
+        });
+        if (localStorage.getItem('sub_auth') !== subscription.toJSON().keys.auth) {
+            fetch('https://cya5q481yc.execute-api.us-east-1.amazonaws.com/pushNotificationEngine', {
+                method: 'POST',
+                body: JSON.stringify({
+                    reqType: 'subscribe',
+                    subscription: subscription,
+                    subscriptionFor: 'newspeek'
+                })
+            }).then(
+                resp => {
+                    if (resp.ok) {
+                        localStorage.setItem('sub_auth', subscription.toJSON().keys.auth);
+                    }
+                }
+            );
+        }
+    });
+}
+
 function showFloatingIcon() {
     if (!localStorage.getItem('installCompleted')) {
         const floatingIcon = document.getElementById('floatingIcon');

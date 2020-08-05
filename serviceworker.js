@@ -39,3 +39,26 @@ self.addEventListener('fetch', (event) => {
     })());
   }
 });
+
+self.addEventListener('push', function(e) {
+  const notif = JSON.parse(e.data.text());
+  var options = {
+    body: notif.body,
+    icon: notif.iconURL,
+    vibrate: [100, 50, 100],
+    data: {
+      dateOfArrival: Date.now(),
+      primaryKey: '2'
+    }
+    //,
+    // actions: [
+    //   {action: 'explore', title: 'Check It Out',
+    //     icon: 'icons/external-link.svg'},
+    //   {action: 'close', title: 'Close',
+    //     icon: 'icons/x.svg'},
+    // ]
+  };
+  e.waitUntil(
+    self.registration.showNotification(notif.title, options)
+  );
+});
