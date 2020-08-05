@@ -52,7 +52,7 @@ async function subscribe() {
 }
 
 function showFloatingIcon() {
-    if (!localStorage.getItem('installCompleted')) {
+    if (!localStorage.getItem('installCompleted') || true) { //to figure out an elegant mechanism
         const floatingIcon = document.getElementById('floatingIcon');
         floatingIcon.classList.add('show');
     }
